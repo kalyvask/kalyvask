@@ -14,9 +14,9 @@ I write about AI agents, evals, and applied product strategy at [alexkalyvas.sub
 
 #### 🚀 What I'm building
 
-- **[role-radar](https://github.com/kalyvask/role-radar)** — CLI that scrapes Greenhouse/Lever/Ashby/SmartRecruiters across 60+ AI companies and scores roles against my CV on a 100-point rubric. Daily run, ranked email shortlist. *Python · Typer · SQLite · Anthropic API*
-- **[deployment-monitor](https://github.com/kalyvask/deployment-monitor)** — Tracks AI-deployment trends across Reddit, Hacker News, and 40+ RSS sources. Claude summarizes and categorizes; Streamlit dashboard surfaces what's actually shipping in production. *Python · Streamlit · Anthropic API*
-- **[interview-prep](https://github.com/kalyvask/interview-prep)** — Interactive AI-PM interview platform: 7 round types, DASME system-design framework, 64-question drill bank, calibrated 4/10 vs 9/10 answers. *Next.js 16 · React 19 · TypeScript · Tailwind v4*
+- **[ai-sre](https://github.com/kalyvask/ai-sre)** — Experimental site-reliability agent for AI systems: triages incidents, summarizes logs, and runs on-call runbooks through LLM tool-use loops. Built to test how far an agent can replace tier-1 SRE work before a human is needed. *Python · Anthropic API · Agents*
+- **[chief-of-staff](https://github.com/kalyvask/chieff-off-staff-llmwiki-enhanced)** — Personal chief-of-staff agent wrapped around a private LLM wiki of my stories, frameworks, and prompt patterns. Drafts emails, prepares meetings, and recalls the right artifact on demand. *JavaScript · LLM · Agents · RAG*
+- **[deployment-monitor](https://github.com/kalyvask/deployment-monitor)** — Tracks real-world AI deployment trends across Reddit, Hacker News, and 40+ RSS sources. Claude summarizes and categorizes; Streamlit dashboard surfaces what's actually shipping in production. *Python · Streamlit · Anthropic API*
 
 ---
 
