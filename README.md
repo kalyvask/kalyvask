@@ -15,7 +15,7 @@ I write about AI agents, evals, and applied product strategy at [alexkalyvas.sub
 #### 🚀 What I'm building
 
 - **[ai-sre](https://github.com/kalyvask/ai-sre)** — Experimental site-reliability agent for AI systems: triages incidents, summarizes logs, and runs on-call runbooks through LLM tool-use loops. Built to test how far an agent can replace tier-1 SRE work before a human is needed. *Python · Anthropic API · Agents*
-- **[chief-of-staff](https://github.com/kalyvask/chieff-off-staff-llmwiki-enhanced)** — Personal chief-of-staff agent wrapped around a private LLM wiki of my stories, frameworks, and prompt patterns. Drafts emails, prepares meetings, and recalls the right artifact on demand. *JavaScript · LLM · Agents · RAG*
+- **[chief-of-staff](https://github.com/kalyvask/chieff-off-staff-llmwiki-enhanced)** — Private personal chief-of-staff agent wrapped around a private LLM wiki of my stories, frameworks, and prompt patterns. Drafts emails, prepares meetings, and recalls the right artifact on demand. *JavaScript · LLM · Agents · RAG*
 - **[deployment-monitor](https://github.com/kalyvask/deployment-monitor)** — Tracks real-world AI deployment trends across Reddit, Hacker News, and 40+ RSS sources. Claude summarizes and categorizes; Streamlit dashboard surfaces what's actually shipping in production. *Python · Streamlit · Anthropic API*
 
 ---
