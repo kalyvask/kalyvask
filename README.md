@@ -16,7 +16,7 @@ I write about AI agents, evals, and applied product strategy at [alexkalyvas.sub
 
 - **[role-radar](https://github.com/kalyvask/role-radar)** — CLI that scrapes Greenhouse/Lever/Ashby/SmartRecruiters across 60+ AI companies and scores roles against my CV on a 100-point rubric. Daily run, ranked email shortlist. *Python · Typer · SQLite · Anthropic API*
 - **[deployment-monitor](https://github.com/kalyvask/deployment-monitor)** — Tracks AI-deployment trends across Reddit, Hacker News, and 40+ RSS sources. Claude summarizes and categorizes; Streamlit dashboard surfaces what's actually shipping in production. *Python · Streamlit · Anthropic API*
-- **[interview-prep2](https://github.com/kalyvask/interview-prep2)** — Interactive AI-PM interview platform: 7 round types, DASME system-design framework, 64-question drill bank, calibrated 4/10 vs 9/10 answers. *Next.js 16 · React 19 · TypeScript · Tailwind v4*
+- **[interview-prep](https://github.com/kalyvask/interview-prep)** — Interactive AI-PM interview platform: 7 round types, DASME system-design framework, 64-question drill bank, calibrated 4/10 vs 9/10 answers. *Next.js 16 · React 19 · TypeScript · Tailwind v4*
 
 ---
 
