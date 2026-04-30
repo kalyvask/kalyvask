@@ -13,7 +13,7 @@ I write about AI agents, evals, and applied product strategy at [alexkalyvas.sub
 ---
 
 #### 🚀 What I'm building
-
+- **[ai-oncall](https://github.com/kalyvask/ai-oncall)** — LLM agent that diagnoses production incidents in under 30 seconds. Pulls last-30-min telemetry, recent deploys, and live topology; runs a tool-using investigation loop (max 8 calls, 6 deterministic tools); posts a ranked, evidence-backed RCA to Slack with a structured action prepared for one-click human approval. Multi-tenant, schema-validated, evals-first. `Python` · `FastAPI` · `Next.js` · `Anthropic API` · `OKLCH design tokens`
 - **[chief-of-staff](https://github.com/kalyvask/chief-of-staff)** — Personal chief-of-staff agent wrapped around a private LLM wiki of my stories, frameworks, and prompt patterns. Drafts emails, prepares meetings, and recalls the right artifact on demand. *JavaScript · LLM · Agents · RAG*
 - **[deployment-monitor](https://github.com/kalyvask/deployment-monitor)** — Tracks real-world AI deployment trends across Reddit, Hacker News, and 40+ RSS sources. Claude summarizes and categorizes; Streamlit dashboard surfaces what's actually shipping in production. *Python · Streamlit · Anthropic API*
 
