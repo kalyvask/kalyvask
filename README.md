@@ -3,8 +3,8 @@
 AI Product Manager. Stanford GSB MBA (AI focus). 7 years shipping technical products at Snowflake, Amazon, and IBM — translating AI capabilities into measurable business outcomes.
 
 **Recent work:**
-- At **Snowflake**, designed Cloud Collaboration's first multi-agent orchestration framework — multi-tool execution, role-based tool access, automated eval pipelines — replacing manual support cases.
-- At **Snowflake**, shipped UI and API workflow improvements that cut enterprise time-to-value by **50%**.
+- At **Snowflake**, shipped UI and API workflow improvements to cut enterprise time-to-value by **50%**.
+- At **Snowflake**, designed Dat Cleanroom's first multi-agent orchestration framework — multi-tool execution, role-based tool access, automated eval pipelines — replacing manual support cases.
 - At **Amazon**, led a cross-functional team (5 analysts · 2 engineers) to launch ML-based inventory ordering models across 8 EU countries, generating **$64M in net savings**.
 - Co-founded an angel-backed sustainability-focused TravelTech startup; led product 0→1 across 50+ user-discovery interviews.
 
