@@ -1,6 +1,6 @@
 ### Hi, I'm Alex Kalyvas 👋
 
-AI Product Manager. Stanford GSB MBA (AI focus). 7 years shipping technical products at Snowflake, Amazon, and IBM — translating AI capabilities into measurable business outcomes.
+AI Product Manager. Stanford GSB MBA (focusing on AI and Stanford CS classes). 7 years shipping technical products at Snowflake, Amazon, and IBM — translating AI capabilities into measurable business outcomes.
 
 **Recent work:**
 - At **Snowflake**, shipped UI and API workflow improvements to cut enterprise time-to-value by **50%**.
@@ -39,7 +39,7 @@ I write about AI agents, evals, and applied product strategy at [alexkalyvas.sub
 
 #### 🎓 Background
 
-- **Stanford GSB** — MBA, AI focus (2026)
+- **Stanford GSB** — MBA
 - **LSE** — MSc Management & Strategy · Karelia Merit Scholar · Dissertation: predicting corporate performance from employee-satisfaction data using supervised ML
 - **Athens University of Economics and Business** — BSc Business Administration & Computer Science (Top 5%)
 - GMAT 750 (Top 2%), IR 8/8
