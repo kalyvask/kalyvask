@@ -1,4 +1,4 @@
-### Hi, I'm Alex Kalyvas 👋
+### Hi, I'm Alex Kalyvas
 
 AI Product Manager. Stanford GSB MBA (focusing on AI and Stanford CS classes). 7 years shipping technical products at Snowflake, Amazon, and IBM, translating AI capabilities into measurable business outcomes.
 
