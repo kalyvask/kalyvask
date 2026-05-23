@@ -1,6 +1,7 @@
 ### Hi, I'm Alex Kalyvas
 
-AI Product Manager. Stanford MBA (focusing on AI and Stanford CS classes). 7 years shipping technical products at Snowflake, Amazon, and IBM, translating AI capabilities into measurable business outcomes.
+AI Product Manager. Stanford MBA (focusing on AI and Stanford CS classes). 7 years shipping technical products at Snowflake, Amazon, and IBM, translating AI capabilities into measurable business outcomes. 
+I volunteer helping low-income students get to college and into careers. I publish openly on GitHub AI projects. For students and early career people to access I share: insights from Stanford, Claude skills for cold email built from top-VC playbooks, AI agents for recruiting, PM frameworks, FDE simulations, etc.
 
 **Recent work:**
 - At **Snowflake**, shipped UI and API workflow improvements to cut enterprise time-to-value by **50%**.
