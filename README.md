@@ -1,5 +1,3 @@
-### Hi, I'm Alex Kalyvas
-
 AI Product Manager. Stanford MBA (focusing on AI and Stanford CS classes). 7 years shipping technical products at Snowflake, Amazon, and IBM, translating AI capabilities into measurable business outcomes. 
 
 I write about AI agents, evals, and applied product strategy at [alexkalyvas.substack.com](https://alexkalyvas.substack.com). Currently RDI Research Fellow at Stanford. Sharing learnings from Stanford in the "Tools and learning resources" section.
