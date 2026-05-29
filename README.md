@@ -1,13 +1,6 @@
 ### Hi, I'm Alex Kalyvas
 
 AI Product Manager. Stanford MBA (focusing on AI and Stanford CS classes). 7 years shipping technical products at Snowflake, Amazon, and IBM, translating AI capabilities into measurable business outcomes. 
-I volunteer helping low-income students get to college and into careers. I publish openly on GitHub AI projects. For students and early career people to access I share: insights from Stanford, Claude skills for cold email built from top-VC playbooks, AI agents for recruiting, PM frameworks, FDE simulations, etc.
-
-**Recent work:**
-- At **Snowflake**, shipped UI and API workflow improvements to cut enterprise time-to-value by **50%**.
-- At **Snowflake**, designed Data Cleanroom's first multi-agent orchestration framework (multi-tool execution, role-based tool access, automated eval pipelines), replacing manual support cases.
-- At **Amazon**, led a cross-functional team (5 analysts · 2 engineers) to launch ML-based inventory ordering models across 8 EU countries, generating **$64M in net savings**.
-- Co-founded an angel-backed sustainability-focused TravelTech startup; led product 0→1 across 50+ user-discovery interviews.
 
 I write about AI agents, evals, and applied product strategy at [alexkalyvas.substack.com](https://alexkalyvas.substack.com). Currently RDI Research Fellow at Stanford.
 
