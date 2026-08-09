@@ -1,0 +1,27 @@
+company_name,homepage_url,careers_url,vc_backers,notes
+Runway,https://runwayml.com,https://job-boards.greenhouse.io/runwayml,"a16z, Google, Nvidia, Salesforce",Generative video and world models; NYC + SF HQ
+Hebbia,https://www.hebbia.ai,https://job-boards.greenhouse.io/hebbia,"a16z, Index Ventures, Peter Thiel",LLM-native knowledge work for finance; SoHo NYC HQ
+EliseAI,https://www.eliseai.com,https://job-boards.greenhouse.io/meetelise,"Sapphire Ventures, Navitas Capital, Point72, Koch",Conversational AI for housing and healthcare; Midtown NYC HQ
+Ramp,https://ramp.com,https://ramp.com/careers,"Founders Fund, Thrive Capital, Sequoia, a16z",AI-driven finance automation and spend management; NYC HQ
+Hyperscience,https://www.hyperscience.com,https://www.hyperscience.com/careers,"Tiger Global, Bessemer, FirstMark",AI intelligent document processing; NYC HQ
+ASAPP,https://www.asapp.com,https://www.asapp.com/careers,"March Capital, Dragoneer, HOF Capital",Generative AI for contact centers; NYC HQ
+Dataminr,https://www.dataminr.com,https://www.dataminr.com/careers,"Fidelity, Valor Equity, Eldridge, MSD Capital",Real-time AI event and risk detection; NYC HQ
+Rokt,https://www.rokt.com,https://www.rokt.com/careers,"Tiger Global, Square Peg, TDM Growth, Wellington",AI ecommerce relevance and transaction marketing; NYC HQ
+Attentive,https://www.attentive.com,https://www.attentive.com/careers,"Coatue, Bain Capital Ventures, Sequoia, IVP",AI-powered SMS and marketing automation; NYC HQ
+Captions,https://www.captions.ai,https://www.captions.ai/careers,"Sequoia, Kleiner Perkins, a16z, Index Ventures",AI video creation and editing; NYC HQ
+Pinecone,https://www.pinecone.io,https://www.pinecone.io/careers,"a16z, Menlo Ventures, ICONIQ",Vector database for AI / RAG; NYC HQ
+Clay,https://www.clay.com,https://www.clay.com/careers,"Sequoia, Meritech, First Round, Boldstart",AI GTM data enrichment and outbound; NYC HQ
+Hugging Face,https://huggingface.co,https://huggingface.co/careers,"Sequoia, Coatue, a16z, Google, Nvidia, Salesforce",Open-source AI/ML model and dataset hub; NYC HQ
+Cohere,https://cohere.com,https://cohere.com/careers,"Inovia, Index Ventures, Nvidia, Oracle, Salesforce",Enterprise LLMs and embeddings; NYC office
+ElevenLabs,https://elevenlabs.io,https://elevenlabs.io/careers,"a16z, Sequoia, ICONIQ",AI voice and audio generation; NYC presence
+Synthesia,https://www.synthesia.io,https://www.synthesia.io/careers,"Accel, NEA, Kleiner Perkins, GV, Nvidia",AI video avatars for enterprise; NYC office
+Profound,https://www.tryprofound.com,https://www.tryprofound.com/careers,"Kleiner Perkins, Khosla Ventures, NEA, Saga",Answer-engine optimization for AI search; NYC HQ
+Normal Computing,https://www.normalcomputing.com,https://www.normalcomputing.com/careers,"Celesta, First Spark Ventures",AI and stochastic-computing hardware; NYC HQ
+Distyl AI,https://www.distyl.ai,https://www.distyl.ai/careers,"Coatue, Dell Technologies Capital",Enterprise applied-AI deployment; NYC HQ
+Alloy,https://www.alloy.com,https://www.alloy.com/careers,"Lightspeed, Avenir, Canapi, Bessemer",AI identity and fraud decisioning for fintech; NYC HQ
+Two Sigma,https://www.twosigma.com,https://careers.twosigma.com,Private (hedge fund),ML/AI research and engineering; NYC HQ
+Hudson River Trading,https://www.hudsonrivertrading.com,https://www.hudsonrivertrading.com/careers,Private,Machine learning for algorithmic trading; NYC HQ
+Datadog,https://www.datadoghq.com,https://careers.datadoghq.com,Public (NASDAQ: DDOG),Observability with ML/AI (Bits AI); NYC HQ
+MongoDB,https://www.mongodb.com,https://www.mongodb.com/careers,Public (NASDAQ: MDB),Database with vector search for AI; NYC HQ
+UiPath,https://www.uipath.com,https://www.uipath.com/company/careers,Public (NYSE: PATH),Agentic automation and AI; NYC HQ
+Yext,https://www.yext.com,https://www.yext.com/careers,Public (NYSE: YEXT),AI search and digital presence; NYC HQ
